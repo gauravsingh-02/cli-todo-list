@@ -34,20 +34,14 @@ pip install windows-curses
     source venv/bin/activate  # On macOS/Linux
     venv\Scripts\activate     # On Windows
     ```
-
-3. Install dependencies (if any):
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-4. Run the application:
+    
+3. Run the application:
 
     ```bash
     python todo.py
     ```
 
-5. Exit the application by selecting the **Exit** option.
+4. Exit the application by selecting the **Exit** option.
 
 ## How It Works
 
@@ -62,4 +56,3 @@ pip install windows-curses
 -   Export tasks to a file
 
 ---
-````
