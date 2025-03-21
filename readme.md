@@ -18,8 +18,6 @@ Ensure you have Python installed on your system. You also need `curses`, which i
 pip install windows-curses
 ```
 
-````
-
 ## Installation & Usage
 
 1. Clone the repository:
